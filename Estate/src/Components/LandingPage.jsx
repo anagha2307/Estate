@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './Header'
-
+ 
 function LandingPage() {
     return (
         <>
@@ -17,16 +17,7 @@ function LandingPage() {
                         Read More
                     </button>
                 </div>
-            </section>
-
-            <section id='about' className='h-screen'>
-                <div className='text-center'>
-                    <h2 className='text-4xl my-20'><span className='font-bold'>About   </span>
-                         <span className='underline'>Our Brand</span></h2>
-
-                </div>
-
-            </section>
+            </section>            
         </>
 
     )
