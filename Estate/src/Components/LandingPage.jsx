@@ -9,7 +9,7 @@ function LandingPage() {
                     backgroundImage: "url('header_img.png')"
                 }}>
                 <Header />                
-                <div className='container-fluid text-center mx-auto py-4 px-6  inline-block text-white'>
+                <div className='container-fluid text-center md:pt-0 pt-40 mx-auto py-4 px-6 inline-block text-white'>
                     <h1 className='font-bold italic text-center text-5xl md:text-6xl md:text-[82px] max-w-3xl'>Explore Homes that fit your Dreams</h1>
                     <h1 className='italic text-3xl my-4'>Where Living Begins</h1>
                     <button className="mx-auto border border-white  text-white font-semibold rounded px-6 py-2 
